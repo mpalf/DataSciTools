@@ -10,3 +10,8 @@ We'll learn about:
 * headings
 * lists
 * etc...
+* 
+
+<i>italic<i>
+
+<b>bold<b>
