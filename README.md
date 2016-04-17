@@ -12,9 +12,9 @@ We'll learn about:
 * etc...
 * 
 
-<i>italic<i>
+<i>italic</i>
 
-<b>bold<b>
+<b>bold</b>
 
 <li> first
 <li> second
